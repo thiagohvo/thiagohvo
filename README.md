@@ -2,7 +2,7 @@
 
 # Bem-vindo ao meu GitHub!
 
-👋  I am a **Bachelor of Information Systems** studant at **student at **Mater Dei University** and I am currently in the fourth period of the course.
+👋  I am a **Bachelor of Information Systems** studant at **Mater Dei University** and I am currently in the fourth period of the course.
 
 
 
