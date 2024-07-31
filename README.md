@@ -3,7 +3,9 @@
 # Welcome to my GitHub!
 
 👋  I am a **Bachelor of Information Systems** studant at **Mater Dei University** and I am currently in the fourth period of the course.
+
 🧠  Knowledge in java, python and sql.
+
 💻  Learning css, javascript and docker.
 
 
