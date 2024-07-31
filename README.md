@@ -1,16 +1,31 @@
-## Hi there 👋
+### Olá!
 
-<!--
-**thiagohvo/thiagohvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+👋  I am a **Bachelor of Information Systems** studant at **student at **Mater Dei University** and I am currently in the fourth period of the course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Will-J" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
+  <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Will-C" height="50" width="50"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
+  <img align="center" alt="Will-C" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">
+</div>
+
+
+
+##
+
+
+
+
+
+
+
+
+
+
+
+
+
