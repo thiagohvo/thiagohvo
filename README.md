@@ -6,7 +6,7 @@
 
 🧠  Knowledge in java, python and sql.
 
-💻  Learning css, javascript and docker.
+💻  Learning css and javascript.
 
 
 
