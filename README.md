@@ -16,7 +16,6 @@
   <img align="center" lt="Will-C" height="50" width="50"src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" >
   <img align="center" lt="Will-C" height="50" width="50"src="https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400">
 
-  <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif" alt="Descrição do GIF" width="230" style="max-width: 100%;">
 
 
 </div>
