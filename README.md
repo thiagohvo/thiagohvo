@@ -15,7 +15,7 @@
   <img align="center" alt="Will-J" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" lt="Will-C" height="50" width="50"src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" >
   <img align="center" lt="Will-C" height="50" width="50"src="https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400">
-  <img align="center" lt="Will-C" height="50" width="50"src="https://www.credly.com">/cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 
