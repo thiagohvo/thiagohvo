@@ -1,7 +1,9 @@
 # Thiago de Oliveira
 ## Welcome to my GitHub! 👋
 
-I'm an Information Systems student constantly seeking to learn and grow. Based in Brazil but globally minded, with international work experience and fluency in multiple languages.
+I'm an Information Systems student focused on developing practical skills and gaining experience in the tech industry. Based in Brazil but globally minded, with international work experience and fluency in multiple languages. Open to remote opportunities to contribute with teams while continuing to learn and grow professionally.
+
+
 
 ## 🎓 Education
 - Information Systems (2023-2027) - Unimater, Pato Branco, Brazil
