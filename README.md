@@ -1,13 +1,30 @@
-### Hi, my name is Thiago de Oliveira 
+###  Thiago de Oliveira
 
 # Welcome to my GitHub!
 
-👋  I am a **Bachelor of Information Systems** studant at **Mater Dei University** and I am currently in the fourth period of the course.
+## 🎓 Education
+- Information Systems (2023-2027) - Unimater, Pato Branco, Brazil
 
-🧠  Knowledge in java, python and sql.
+- ## 💻 Tech Skills
+- **Programming:** Basic knowledge of Python, Java, JavaScript, HTML/CSS, and SQL
+- **Other Technical Skills:** User tech support, computer maintenance, digital marketing
+ 
+## 🌐 Languages
+- Portuguese (Native)
+- English (Upper Intermediate)
+- Spanish (Intermediate)
+- Italian (Basic-Intermediate)
+- Latin (Basic)
 
-💻  Learning css and javascript.
+- ### 🤝 Open to
+- Entry-level remote opportunities
+- Collaborative learning projects
 
+
+- ### 📫 How to Reach Me
+- **Email:** [thiago14thi@outlook.com](mailto:thiago14thi@outlook.com)
+
+---
 
 
 <div style="display: inline_block"><br>
