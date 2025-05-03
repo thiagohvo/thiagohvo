@@ -1,7 +1,7 @@
 # Thiago de Oliveira
 ## Welcome to my GitHub! 👋
 
-I'm an Information Systems student passionate about technology and constantly seeking to learn and grow. Based in Brazil but globally minded, with international work experience and fluency in multiple languages.
+I'm an Information Systems student constantly seeking to learn and grow. Based in Brazil but globally minded, with international work experience and fluency in multiple languages.
 
 ## 🎓 Education
 - Information Systems (2023-2027) - Unimater, Pato Branco, Brazil
@@ -34,7 +34,7 @@ I'm an Information Systems student passionate about technology and constantly se
   <img align="center" alt="IoT" height="50" width="50" src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png">
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula)
+
 
 ---
 
