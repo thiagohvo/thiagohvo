@@ -24,7 +24,7 @@ I'm an Information Systems student focused on developing practical skills and ga
 - Collaborative learning projects
 
 ## 📫 How to Reach Me
-- **Email:** [thiago10thi@hotmail.com]
+- **Email:** [thiago10thi@hotmail.com](mailto:thiago10thi@hotmail.com)
 
 ---
 
