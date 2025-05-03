@@ -22,7 +22,7 @@
 
 
 - ### 📫 How to Reach Me
-- **Email:** [thiago14thi@outlook.com](mailto:thiago14thi@outlook.com)
+- **Email:** [thiago14thi@outlook.com](mailto:thiago10thi@hotmail.com)
 
 ---
 
