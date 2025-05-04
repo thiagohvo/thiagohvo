@@ -12,12 +12,6 @@ I'm an Information Systems student focused on developing practical skills and ga
 - **Programming:** Basic knowledge of Python, Java, JavaScript, HTML/CSS, and SQL
 - **Other Technical Skills:** User tech support, computer maintenance, digital marketing
  
-## 🌐 Languages
-- Portuguese (Native)
-- English (Upper Intermediate)
-- Spanish (Intermediate)
-- Italian (Basic-Intermediate)
-- Latin (Basic)
 
 ## 🤝 Open to
 - Entry-level remote opportunities
