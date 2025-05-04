@@ -1,8 +1,9 @@
 # Thiago de Oliveira
-## Welcome to my GitHub! 👋
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
+## Welcome to my GitHub! 👋
+       
+
 I'm an Information Systems student focused on developing practical skills and gaining experience in the tech industry. Open to remote opportunities to contribute with teams while continuing to learn and grow professionally.
 
 
