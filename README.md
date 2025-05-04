@@ -36,34 +36,6 @@ I'm an Information Systems student focused on developing practical skills and ga
   <img align="center" alt="IoT" height="50" width="50" src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png">
 </div>
 
- <td align="center" width="140" height="112.43">
-      <a href="https://git-scm.com/" >
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://www.linux.org/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://pt.wikipedia.org/wiki/Linguagem_ladder">
-        <img src="img/ladder.png" width="48" height="48" alt="Ladder" />
-      </a>
-      <br>Ladder
-    </td>
-    <td align="center"  width="140" height="112.43">
-      <a href="https://www.overleaf.com/">
-        <img src="img/tex.svg" width="48" height="48" alt="Tex" />
-      </a>
-      <br>Tex
-    </td>
-
-  </tr>
-</table>
-</br>
 
 
 
