@@ -30,6 +30,10 @@ I'm an Information Systems student focused on developing practical skills and ga
 
 - Email: [thiago10thi@hotmail.com](mailto:thiago10thi@hotmail.com)
 
+<a href="https://www.linkedin.com/in/thiagohvo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
+
+---
+
   ## Visitor Counter
 <div align="center">
 
@@ -37,11 +41,6 @@ I'm an Information Systems student focused on developing practical skills and ga
 
 ![Visitor Count](https://profile-counter.glitch.me/{thiagohvo}/count.svg)
 </div>
-
-
-<a href="https://www.linkedin.com/in/thiagohvo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
-
----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
