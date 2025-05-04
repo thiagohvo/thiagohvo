@@ -19,7 +19,9 @@ I'm an Information Systems student focused on developing practical skills and ga
 
 ## 📫 How to Reach Me
 - **Email:** [thiago10thi@hotmail.com](mailto:thiago10thi@hotmail.com)
--   <a href="https://github.com/thiagohvo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+    <a href="https://github.com/thiagohvo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---
 
