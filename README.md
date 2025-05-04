@@ -42,8 +42,9 @@ I'm an Information Systems student focused on developing practical skills and ga
 ![Visitor Count](https://profile-counter.glitch.me/{thiagohvo}/count.svg)
 </div>
 
-<p  align="center">
+
 <div style="display: inline_block"><br>
+  <p  align="center">
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png">
