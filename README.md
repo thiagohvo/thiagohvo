@@ -1,8 +1,8 @@
-# Thiago de Oliveira
+
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=C9D1D9&multiline=true&width=460&lines=Hi%2C+I'm+Thiago.+Welcome+to+my+GitHub." alt="Hi, I'm Thiago. Welcome to my  GitHub." />
 
-## Welcome to my GitHub! 👋
+
 
 I'm an Information Systems student focused on developing practical skills and gaining experience in the tech industry. Open to remote opportunities to contribute with teams while continuing to learn and grow professionally.
 
