@@ -21,7 +21,8 @@ I'm an Information Systems student focused on developing practical skills and ga
 - **Email:** [thiago10thi@hotmail.com](mailto:thiago10thi@hotmail.com)
   
   
-    <a href="https://github.com/thiagohvo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="www.linkedin.com/in/thiagohvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
+
 
 ---
 
