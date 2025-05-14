@@ -1,5 +1,3 @@
-
-
 ## <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=24&pause=1000&color=C9D1D9&multiline=true&width=460&lines=Hi%2C+I'm+Thiago.+Welcome+to+my+GitHub." alt="Hi, I'm Thiago. Welcome to my  GitHub." />
 
 
@@ -9,23 +7,23 @@ I'm an Information Systems student focused on developing practical skills and ga
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-  
+
 ## 🎓 Education
 
 - Information Systems (2023-2027) - Unimater, Pato Branco, Brazil
-  
+
 ## 💻 Tech Skills
 
 - Programming: Basic knowledge of Python, Java, JavaScript, HTML/CSS, and SQL
-  
+
 - Other Technical Skills: User tech support, computer maintenance, digital marketing
 
 ## 🤝 Open to
 
 - Entry-level remote opportunities
-  
+
 - Collaborative learning projects
-  
+
 ## 📫 How to Reach Me
 
 - Email: [thiago10thi@hotmail.com](mailto:thiago10thi@hotmail.com)
@@ -49,6 +47,7 @@ I'm an Information Systems student focused on developing practical skills and ga
   <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png">
   <img align="center" alt="Bitcoin" height="50" width="50" src="https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400">
+  <img align="center" alt="IoT" height="50" width="50" src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png">
   
 </div>
 <!--Git Stats-->
