@@ -57,5 +57,5 @@ I'm an Information Systems student focused on developing practical skills and ga
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagohvo&show_icons=true&locale=en&layout=compact" alt="thiagohvo" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagohvo&show_icons=true&locale=en" alt="thiagohvo" /></p> 
 <!--SVG BOTTOM-->
-<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" /></p> 
+<p align="center"> <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="thiagohvo" /></p> 
 
