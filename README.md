@@ -30,15 +30,6 @@ I'm an Information Systems student focused on developing practical skills and ga
 
 ---
 
-  ## Visitor Counter
-<div align="center">
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/{thiagohvo}/count.svg)
-</div>
-
-
 <div style="display: inline_block"><br>
   <p  align="center">
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
