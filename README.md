@@ -28,15 +28,8 @@ I'm an Information Systems student focused on developing practical skills and ga
 
 <a href="https://www.linkedin.com/in/thiagohvo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lin" height="30" width="40" /></a>
 
----
 
-<div style="display: inline_block"><br>
-  <p  align="center">
-  <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png">
-  <img align="center" alt="IoT" height="50" width="50" src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png">
-  
+
 </div>
 <!--Git Stats-->
 <p  align="center">
